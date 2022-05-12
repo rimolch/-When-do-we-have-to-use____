@@ -29,3 +29,6 @@ Would you be surprised to know that we perform binary searches every day of our 
 Although binary search algorithms are typically used to find one element in a sorted sequence, they have many other uses. You can apply a binary search to a result, for example.
 
 Say you wanted to determine the minimum square footage of office space needed to fit all a company's employees easily. Then, you can conduct a binary search for that suggested size rather than sequentially checking through all the possible dimensions. Typically, you would estimate maximum and minimum sizes when conducting the binary search, then check a middle value, so you can halve the interval repeatedly until you get your answer. This process saves a lot of time, especially when considering the vast number of possible iterations of office space square foot available!
+
+<h2>for more details</h2>
+<a href="https://codeforces.com/blog/entry/96699">Click here</a>
