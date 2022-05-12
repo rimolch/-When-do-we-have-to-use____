@@ -1,4 +1,4 @@
-Brute force approach
+<h2>Brute force approach
 A brute force approach is an approach that finds all the possible solutions to find a satisfactory solution to a given problem. The brute force algorithm tries out all the possibilities till a satisfactory solution is not found.
 
 Such an algorithm can be of two types:
@@ -35,5 +35,5 @@ The following are the disadvantages of the brute-force algorithm:
 
 It is an inefficient algorithm as it requires solving each and every state.
 It is a very slow algorithm to find the correct solution as it solves each state without considering whether the solution is feasible or not.
-The brute force algorithm is neither constructive nor creative as compared to other algorithms.
+The brute force algorithm is neither constructive nor creative as compared to other algorithms.</h2>
 
