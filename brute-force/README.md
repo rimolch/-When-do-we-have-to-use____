@@ -37,3 +37,6 @@ It is an inefficient algorithm as it requires solving each and every state.
 It is a very slow algorithm to find the correct solution as it solves each state without considering whether the solution is feasible or not.
 The brute force algorithm is neither constructive nor creative as compared to other algorithms.</h2>
 
+<h2> For more details</h2>
+
+<a href="https://www.freecodecamp.org/news/brute-force-algorithms-explained/">Clik here</a>
