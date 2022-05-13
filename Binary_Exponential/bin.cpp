@@ -1,3 +1,4 @@
+//recursive method
 //O(logn)
 int BinaryEx(int a,int b)
 {
