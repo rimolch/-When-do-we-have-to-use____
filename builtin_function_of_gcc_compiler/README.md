@@ -1,5 +1,5 @@
 
-# These are four important built-in functions in GCC compiler: 
+# *_These are four important built-in functions in GCC compiler: _*
  
 
 # __builtin_popcount(x): 
@@ -27,7 +27,7 @@ Output:
 Count of 1s in binary of 5 is 2
  
 
-# Note: Similarly you can use __builtin_popcountl(x) & __builtin_popcountll(x) for long and long long data types.
+# *_ Note: Similarly you can use __builtin_popcountl(x) & __builtin_popcountll(x) for long and long long data types. _*
 
 # __builtin_parity(x): 
  This function is used to check the parity of a number. This function returns true(1) if the number has odd parity else it returns false(0) for even parity. 
