@@ -1,4 +1,4 @@
-
+//O(logn)
 int BinaryEx(int a,int b)
 {
     if(b==0) return 1; //base case
