@@ -29,3 +29,27 @@ int BinaryEx(int a,int b)
     }
 }
 */
+// iterative method 
+/*  
+    let's say a = 2 and b = 5
+    
+     b(5)       a (2)       res(1)     -----------------------------initialy
+     5           2          2*1=2
+     2           4          2
+     1           16         32 (ans)
+     
+*/
+int BinaryExIter(int a,int b)
+{
+    int res =1;
+    while(b)
+    {
+        if(b&1)
+        {
+            res*=a;
+        }
+        a*=a;
+        b/=2;
+    }
+    return res;
+}
