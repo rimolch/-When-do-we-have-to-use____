@@ -29,6 +29,7 @@ int BinaryEx(int a,int b)
     }
 }
 */
+// 0(log(b))
 // iterative method 
 /*  
     let's say a = 2 and b = 5
