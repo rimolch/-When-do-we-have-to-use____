@@ -60,7 +60,7 @@ int main()
     {
         int n;
         cin>>n;
-       memset(dp,-1,sizeof dp);
+       memset(dp,-1,sizeof dp);/// all elements of dp are -1
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<n;j++)
