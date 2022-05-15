@@ -40,3 +40,4 @@ The brute force algorithm is neither constructive nor creative as compared to ot
 <h2> For more details</h2>
 
 <a href="https://www.freecodecamp.org/news/brute-force-algorithms-explained/">Clik here</a>
+<a href="https://www.prodevelopertutorial.com/introduction-to-brute-force-approach-with-example/">Read</a>
